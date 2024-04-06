@@ -1,8 +1,19 @@
-## Acebook Go/React Template
+## Capybara Project
 
-In this project, you are task with working on an existing application. A
-significant part of the challenge will be to familiarise yourself with the
-codebase you've inherited, as you work to **improve and extend** it.
+In this second engineering project at Makers, our team of 7 was tasked with
+working on an existing application, which is a Facebook clone.
+The existing app and its legacy code was simple in its output, but had a lot
+of code that we as a team had to go through, understand and teach each other about.
+
+Our goal was to **improve and extend** the codebase, making features that were
+already there better, and adding features where we saw they were needed.
+
+What is here now is a forked version of what was acheived in the two weeks we were given,
+and includes continuation from myself.
+
+What follows is the information that was given to us at the beginning of the project.
+
+Let's see what i can add! :)
 
 ### Structure
 
@@ -66,6 +77,7 @@ Follow the instructions here: https://go.dev/doc/install
    ```
    brew services start postgresql
    ```
+
 7. Create your databases:
    ```
    createdb acebook
